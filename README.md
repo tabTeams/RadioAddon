@@ -19,3 +19,4 @@ NVDA+Shift+Left : ช่องก่อนหน้า
 • TABRadio บันทึกช่องปัจจุบัน ระดับเสียง และโหมดใน state.json
 • ต้องติดตั้ง VLC หรือ FFplay
 • ใช้งานได้กับ Windows และ Linux
+\
